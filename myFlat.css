@@ -1,0 +1,112 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bg-main-section-container {
+    background-image: url("https://assets.ccbp.in/frontend/static-website/flats-list-bg.png");
+    height: 100vh;
+    background-size: cover;
+}
+
+.home-section-card {
+    background-color: #ffffff;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    text-align: center;
+}
+
+.home-heading {
+    color: #f19116;
+    font-family: "Bree Serif";
+}
+
+.home-para {
+    color: #7b8794;
+    font-family: "Bree Serif";
+}
+
+.home-button {
+    background-color: #f19116;
+    color: #ffffff;
+    border-radius: 5px;
+    border-width: 0;
+}
+
+
+.bg-flats-list-container {
+    background-color: #222222;
+    background-size: cover;
+    height: 105vh;
+}
+
+.list-main-heading {
+    color: #f19116;
+    font-family: "Bree Serif";
+    font-size: 32px;
+}
+
+.flats-list-card {
+    background-color: #ffffff;
+    border-radius: 5px;
+}
+
+.img-1 {
+    width: 20vw;
+}
+
+.list-sub-heading {
+    color: #0f0e46;
+    font-weight: bold;
+    font-family: "Bree Serif";
+    font-size: 25px;
+}
+
+.list_para {
+    color: #7b8794;
+    font-family: "Bree Serif";
+}
+
+.list-page-button {
+    background-color: #f19116;
+    color: #ffffff;
+    border-radius: 5px;
+    border-width: 0;
+}
+
+
+.bg-desc-container {
+    background-color: #222222;
+    height: 125vh;
+    background-size: cover;
+}
+
+.desc-image {
+    height: 53vh;
+}
+
+.desc-heading {
+    color: #f19116;
+    font-weight: bold;
+    font-family: "Bree Serif";
+    font-size: 28px;
+}
+
+.desc-para {
+    color: #7b8794;
+    font-family: "Bree Serif";
+}
+
+.h-line {
+    border-color: white;
+    border-width: 2px;
+}
+
+.icon {
+    color: #f19116;
+    font-size: 25px;
+}
+
+.desc-button {
+    color: #ffffff;
+    background-color: #f19116;
+    border-radius: 5px;
+    border-width: 0;
+}
